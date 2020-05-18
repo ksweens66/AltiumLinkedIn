@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\05_01 Lilypad\Project Outputs for Free Documents\Pick Place\Pick Place for Lilypad_PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14-09-18
+Time:       10:40
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator  Comment                   Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation         Description 
+Y1          RESONATORSMD              TopLayer    RESONATOR-SMD        -400.000      110.622       270              ""          
+VCC         CONN                      TopLayer    PETAL-LONG-2         -1599.920     16.000        269.427047729492 ""          
+U2          MCP73831                  TopLayer    SOT23-5              -549.701      -649.592      0                ""          
+U1          ATMEGA328                 TopLayer    TQFP32-08            0.000         0.000         360              ""          
+TP-VBATT    TEST-POINT3X5             TopLayer    PAD.03X.05           -650.000      350.000       90               ""          
+TP-TX       TEST-POINT3X5             TopLayer    PAD.03X.05           -150.000      900.000       90               ""          
+TP-RX       TEST-POINT3X5             TopLayer    PAD.03X.05           -50.000       900.000       90               ""          
+TP-FTDI_VCC TEST-POINT3X5             TopLayer    PAD.03X.05           48.000        900.000       90               ""          
+TP-DTR      TEST-POINT3X5             TopLayer    PAD.03X.05           -250.000      900.000       90               ""          
+A3          CONN                      TopLayer    PETAL-LONG-2         1385.640      800.000       120.000003814697 ""          
+S3          SWITCH-MOMENTARY-2SMD-2   TopLayer    TACTILE_SWITCH_SMD-2 -599.799      779.999       0                ""          
+S2          AYZ0202                   TopLayer    AYZ0202              500.287       -599.610      0                ""          
+R9          RESISTOR0402-RES          TopLayer    0402-RES             -950.000      -624.205      270              ""          
+R3          RESISTOR0402-RES          TopLayer    0402-RES             169.000       -1070.205     90               ""          
+R2          RESISTOR0402-RES          TopLayer    0402-RES             -746.042      -675.795      90               ""          
+R1          RESISTOR0402-RES          TopLayer    0402-RES             -400.000      -1096.205     270              ""          
+PP-SCK      TEST-POINT3X5             TopLayer    PAD.03X.05           -300.000      -950.000      90               ""          
+PP-RST      TEST-POINT3X5             TopLayer    PAD.03X.05           198.408       -1400.000     90               ""          
+PP-MISO     TEST-POINT3X5             TopLayer    PAD.03X.05           200.000       -300.000      90               ""          
+JP2         ARDUINO_SERIAL_PROGRAMSMD BottomLayer 1X06-SMD             16.000        1203.444      0                ""          
+JP1         M02-JST-2MM-SMT           TopLayer    JST-2-SMD            -857.165      20.569        90               ""          
+GND         CONN                      TopLayer    PETAL-LONG-2         -1385.640     800.000       240.000015258789 ""          
+D11         CONN                      TopLayer    PETAL-LONG-2         1385.640      -800.000      60               ""          
+D10         CONN                      TopLayer    PETAL-LONG-2         800.000       -1385.640     30               ""          
+D9          CONN                      TopLayer    PETAL-LONG-2         16.000        -1699.924     0.53924560546875 ""          
+D6          CONN                      TopLayer    PETAL-LONG-2         -800.000      -1385.640     330              ""          
+D5          CONN                      TopLayer    PETAL-LONG-2         -1385.640     -800.000      299.999984741211 ""          
+D4          LED0603                   TopLayer    LED-0603             -832.490      -568.236      180              ""          
+D2          LED0603                   TopLayer    LED-0603             -400.000      -1289.712     180              ""          
+C10         CAP0402-CAP               TopLayer    0402-CAP             -525.795      -850.000      180              ""          
+C9          CAP0402-CAP               TopLayer    0402-CAP             550.000       -1070.205     270              ""          
+C4          CAP0402-CAP               TopLayer    0402-CAP             224.204       -711.220      180              ""          
+C3          CAP0402-CAP               TopLayer    0402-CAP             300.000       -1070.205     270              ""          
+C2          CAP_POL3528               TopLayer    EIA3528              700.000       2.173         270              ""          
+C1          CAP0402-CAP               TopLayer    0402-CAP             401.574       -1070.205     270              ""          
+A5          CONN                      TopLayer    PETAL-LONG-2         -800.000      1385.640      210              ""          
+A4          CONN                      TopLayer    PETAL-LONG-2         800.000       1385.640      149.999996185303 ""          
+A2          CONN                      TopLayer    PETAL-LONG-2         1599.922      -15.748       89.4360499978066 ""          

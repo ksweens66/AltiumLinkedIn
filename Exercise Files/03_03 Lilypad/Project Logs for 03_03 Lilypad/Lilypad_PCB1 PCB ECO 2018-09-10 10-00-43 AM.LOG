@@ -1,0 +1,202 @@
+Added Component: Designator=A2(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A4(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A5(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(0402-CAP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(EIA3528)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(0402-CAP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(0402-CAP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(0402-CAP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(0402-CAP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(LED-0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(LED-0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(JST-2-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(1X06-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PP-MISO(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PP-RST(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PP-SCK(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0402-RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0402-RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0402-RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0402-RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(AYZ0202)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(TACTILE_SWITCH_SMD-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP-DTR(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP-FTDI_VCC(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP-RX(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP-TX(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP-VBATT(PAD.03X.05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(TQFP32-08)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VCC(PETAL-LONG-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(RESONATOR-SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A2 Pin=A2-1
+Added Pin To Net: NetName=A2 Pin=U1-23
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=TP7-1
+Added Pin To Net: NetName=A3 Pin=U1-24
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=A4-1
+Added Pin To Net: NetName=A4 Pin=U1-25
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=A5-1
+Added Pin To Net: NetName=A5 Pin=U1-26
+Added Net: Name=A5
+Added Pin To Net: NetName=D5 Pin=D5-1
+Added Pin To Net: NetName=D5 Pin=U1-9
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=D6-1
+Added Pin To Net: NetName=D6 Pin=U1-10
+Added Net: Name=D6
+Added Pin To Net: NetName=D9 Pin=D9-1
+Added Pin To Net: NetName=D9 Pin=U1-13
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=D10-1
+Added Pin To Net: NetName=D10 Pin=U1-14
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=D11-1
+Added Pin To Net: NetName=D11 Pin=U1-15
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=PP-MISO-P$1
+Added Pin To Net: NetName=D12 Pin=U1-16
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=PP-SCK-P$1
+Added Pin To Net: NetName=D13 Pin=R1-1
+Added Pin To Net: NetName=D13 Pin=U1-17
+Added Net: Name=D13
+Added Pin To Net: NetName=DTR Pin=C4-1
+Added Net: Name=DTR
+Added Pin To Net: NetName=FTDI_VCC Pin=C9-1
+Added Pin To Net: NetName=FTDI_VCC Pin=D4-A
+Added Pin To Net: NetName=FTDI_VCC Pin=S2-3
+Added Pin To Net: NetName=FTDI_VCC Pin=S2-6
+Added Pin To Net: NetName=FTDI_VCC Pin=U2-4
+Added Net: Name=FTDI_VCC
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-C
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=D2-C
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP2-5
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U2-3
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R1-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=NetD4_C Pin=R9-1
+Added Net: Name=NetD4_C
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=TP-DTR-P$1
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=TP-TX-P$1
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=TP-RX-P$1
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=TP-FTDI_VCC-P$1
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-5
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=Y1-1
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=Y1-3
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=RST Pin=C4-2
+Added Pin To Net: NetName=RST Pin=PP-RST-P$1
+Added Pin To Net: NetName=RST Pin=R3-1
+Added Pin To Net: NetName=RST Pin=S3-1
+Added Pin To Net: NetName=RST Pin=U1-29
+Added Net: Name=RST
+Added Pin To Net: NetName=RXI Pin=U1-30
+Added Net: Name=RXI
+Added Pin To Net: NetName=TXO Pin=U1-31
+Added Net: Name=TXO
+Added Pin To Net: NetName=VBATT Pin=JP1-2
+Added Pin To Net: NetName=VBATT Pin=S2-1
+Added Pin To Net: NetName=VBATT Pin=S2-1
+Added Pin To Net: NetName=VBATT Pin=S2-1
+Added Pin To Net: NetName=VBATT Pin=S2-4
+Added Pin To Net: NetName=VBATT Pin=TP-VBATT-P$1
+Added Net: Name=VBATT
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-A
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=S2-2
+Added Pin To Net: NetName=VCC Pin=S2-5
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Pin To Net: NetName=VCC Pin=U1-18
+Added Pin To Net: NetName=VCC Pin=U1-20
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Net: Name=VCC
+Added Class: Name=Lilypad_Schematic_1
+Added Room: Name=Lilypad_Schematic_1

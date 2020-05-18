@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [05_01 Lilypad.PrjPCB]
+   Generated File[Bill of Materials-05_01 Lilypad.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:40:08 AM On 2018-09-14
